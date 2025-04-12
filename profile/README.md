@@ -19,7 +19,7 @@ Graphyne is a personal R&D initiative aiming to explore custom engine architectu
 
 ## 🧍 Who’s behind this?
 
-All projects under this organization are currently developed and maintained by a single person ([@Aschekind](https://github.com/Aschekind)).  
+All projects under this organization are currently developed and maintained by a single person ([@Multyp](https://github.com/Multyp)).  
 There are no open calls for contributions at this stage, but **feedback, curiosity, and collaboration ideas are always welcome**.
 
 ## 💬 Get in Touch
