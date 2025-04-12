@@ -1,3 +1,5 @@
+![Aschekind Header](./aschekind-banner.png)
+
 # Aschekind
 
 Welcome to **Aschekind**, the home of personal and experimental software projects by a solo developer passionate about low-level systems, game technology, and creative engineering.
@@ -10,7 +12,8 @@ The ultimate goal is to build and own tools that empower game creation, from the
 
 ## 🔧 Active Project
 
-### [Graphyne](https://github.com/Aschekind/Graphyne)  
+### [Graphyne](https://github.com/Aschekind/Graphyne)
+
 A lightweight 3D game engine built with C++, Vulkan, and SDL.  
 Graphyne is a personal R&D initiative aiming to explore custom engine architecture, multithreading, and modern graphics pipelines.
 
